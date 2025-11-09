@@ -181,6 +181,13 @@ Visit [http://127.0.0.1:8050](http://127.0.0.1:8050)
 
 ---
 
+## 🚀 Render Deployment
+
+The dashboard is deployed and publicly accessible at:  
+[https://msy-inventory-dashboard.onrender.com](https://msy-inventory-dashboard.onrender.com)
+
+---
+
 ## 🏁 Conclusion
 
 The **Mai Shan Yun Dashboard** seamlessly merges analytics, forecasting, and usability into one data intelligence system.  
