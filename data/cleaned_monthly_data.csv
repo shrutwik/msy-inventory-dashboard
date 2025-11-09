@@ -1,0 +1,796 @@
+source_page,source_table,Group,Count,Amount,Month,Sheet_Type,Category,Item Name
+1,1,Lunch Menu,269.0,3783.26,May,Summary,,
+1,1,Open Food,2.0,4.52,May,Summary,,
+1,1,All Day Menu,0.0,61296.15,May,Summary,,
+1,2,,787.0,7935.26,May,Details,Fried Chicken,
+1,2,,0.0,0.0,May,Details,Combo Items,
+1,2,,0.0,2922.54,May,Details,Drink,
+1,2,,175.0,358.48,May,Details,Additonal,
+1,2,,524.0,7698.91,May,Details,Rice Noodle,
+1,2,,50.0,546.94,May,Details,Wonton,
+1,2,,244.0,1108.72,May,Details,Milk Tea,
+1,2,,0.0,0.0,May,Details,Combo Items Donot Delete,
+1,2,,0.0,6217.05,May,Details,Appetizer,
+1,2,,816.0,12118.38,May,Details,Ramen,
+1,2,,398.0,6000.15,May,Details,Tossed Rice Noodle,
+1,2,,269.0,3783.26,May,Details,Lunch Special,
+1,2,,941.0,13539.42,May,Details,Tossed Ramen,
+1,2,,214.0,2850.3,May,Details,Fried Rice,
+1,2,,2.0,4.52,May,Details,Open Food,
+1,3,,468.0,6921.26,May,Details,,Beef Tossed Ramen
+1,3,,339.0,5045.65,May,Details,,Beef Ramen
+1,3,,269.0,3783.26,May,Details,,Lunch Special
+1,3,,260.0,3526.47,May,Details,,Pork Tossed Ramen
+1,3,,233.0,3303.84,May,Details,,Chicken Rice Noodle Soup
+1,3,,222.0,3313.0,May,Details,,Chicken Ramen
+1,3,,309.0,3089.87,May,Details,,Mai Special Fried Chicken(8)
+1,3,,195.0,3102.44,May,Details,,Beef Tossed Rice Noodle
+1,3,,200.0,2906.3,May,Details,,Chicken Tossed Ramen
+1,3,,147.0,2316.04,May,Details,,Beef Rice Noodle Soup
+1,3,,131.0,1845.21,May,Details,,Pork Ramen
+1,3,,118.0,1726.89,May,Details,,Chicken Tossed Rice Noodles
+1,3,,91.0,1474.52,May,Details,,House Ramen
+1,3,,138.0,1378.05,May,Details,,Mai's Golden Flake Fried Chicken(8)
+1,3,,119.0,1063.71,May,Details,,Fried Pork Dumplings(10)
+1,3,,72.0,992.7,May,Details,,Pork Tossed Rice Noodle
+2,3,,96.0,982.35,May,Details,,Golden Coconut Crunch Chicken(8)
+2,3,,72.0,986.46,May,Details,,Pork Rice Noodle Soup
+2,3,,80.0,1000.1,May,Details,,Chicken Fried Rice
+2,3,,193.0,960.71,May,Details,,Mai OG Fried Chicken Wings(4)
+2,3,,196.0,888.71,May,Details,,Brown Sugar Milk Tea w. Boba (24oz)
+2,3,,94.0,819.22,May,Details,,Steam Pork Dumplings(10)
+2,3,,185.0,726.44,May,Details,,Crispy Spring Roll(3)
+2,3,,42.0,684.02,May,Details,,House Rice Noodle Soup
+2,3,,46.0,692.23,May,Details,,House Fried Rice
+2,3,,138.0,674.01,May,Details,,Tempura Shrimp(3)
+2,3,,162.0,651.24,May,Details,,Crispy Pork Egg Roll(3)
+2,3,,59.0,589.13,May,Details,,Onion Glory Fried Chicken(8)
+2,3,,152.0,555.16,May,Details,,Strawberry Sunrise Tea
+2,3,,50.0,546.94,May,Details,,Sichuan Chili Wontons
+2,3,,33.0,440.0,May,Details,,Vegetable Ramen
+2,3,,30.0,408.55,May,Details,,Vegetable Rice Noodle Soup
+2,3,,43.0,434.87,May,Details,,Citrus Honey Fried Chicken  (8)
+2,3,,28.0,377.5,May,Details,,Beef Fried Rice
+2,3,,29.0,389.91,May,Details,,Shrimp Fried Rice
+2,3,,35.0,346.69,May,Details,,Mai Buffalo Chicken Wings(8)
+2,3,,87.0,316.02,May,Details,,Golden kiwi
+2,3,,118.0,344.71,May,Details,,Dr. Pepper
+3,3,,60.0,352.83,May,Details,,Cream Cheese Wonton（6）
+3,3,,115.0,338.5,May,Details,,Specialty Drink
+3,3,,97.0,284.98,May,Details,,Diet Pepsi
+3,3,,46.0,249.14,May,Details,,Spicy Cucumber Salad
+3,3,,83.0,238.52,May,Details,,Pepsi
+3,3,,47.0,263.68,May,Details,,Cream Cheese Rangoon(6)
+3,3,,17.0,213.55,May,Details,,Pork Fried Rice
+3,3,,79.0,228.04,May,Details,,Sweet Ice Tea
+3,3,,69.0,197.17,May,Details,,Unsweet Ice Tea
+3,3,,47.0,184.56,May,Details,,Crispy French Fries
+3,3,,20.0,242.53,May,Details,,BF chicken cutlet combo
+3,3,,16.0,158.84,May,Details,,Wasabi Spiced Fried Chicken (8)
+3,3,,19.0,186.57,May,Details,,Tangy Honey Mustard Fried Chicken (8)
+3,3,,14.0,177.0,May,Details,,Vegetable Fried Rice
+3,3,,31.0,153.81,May,Details,,Milk Tea(20oz)
+3,3,,11.0,153.95,May,Details,,Vegetable Tossed Ramen
+3,3,,12.0,138.88,May,Details,,Wasabi Spiced Fried Chicken(8)
+3,3,,11.0,129.49,May,Details,,Tangy Honey Mustard Fried Chicken(8)
+3,3,,13.0,129.11,May,Details,,Chili Pepper Fried Chicken（8）
+3,3,,45.0,132.29,May,Details,,Starry - Sprite
+3,3,,36.0,106.77,May,Details,,Braised Chicken Thigh
+3,3,,9.0,114.96,May,Details,,Vegetable Tossed Rice Noodle
+4,3,,22.0,117.14,May,Details,,Brown Sugar Rice Cake
+4,3,,35.0,100.73,May,Details,,Lemonade
+4,3,,19.0,90.93,May,Details,,Jumbo Chicken Tender (3)
+4,3,,4.0,63.16,May,Details,,House Tossed Rice Noodle
+4,3,,6.0,62.94,May,Details,,Chili Pepper Fried Chicken (8)
+4,3,,17.0,66.2,May,Details,,Brown Sugar Milk Tea NO BOBA (24oz)
+4,3,,52.0,52.44,May,Details,,White Rice - DINE IN
+4,3,,21.0,42.19,May,Details,,Bottled Soda
+4,3,,13.0,38.39,May,Details,,Hot Tea
+4,3,,8.0,33.92,May,Details,,Crispy French Fries(LG)
+4,3,,10.0,65.93,May,Details,,BF chicken cutlet
+4,3,,15.0,45.49,May,Details,,Plain Fried Rice
+4,3,,10.0,29.74,May,Details,,Orange Crush
+4,3,,17.0,25.8,May,Details,,Rice Noodle
+4,3,,6.0,21.0,May,Details,,White Rice-To Go
+4,3,,5.0,25.02,May,Details,,Sweet Sesame Ball
+4,3,,5.0,20.16,May,Details,,White Rice
+4,3,,2.0,31.44,May,Details,,House Tossed Ramen
+4,3,,4.0,13.76,May,Details,,Ramune - Original
+4,3,,4.0,15.96,May,Details,,Chunked Beef
+4,3,,5.0,16.9,May,Details,,Braised Chicken
+4,3,,7.0,10.47,May,Details,,soup to go
+5,3,,6.0,9.0,May,Details,,Ramen
+5,3,,11.0,10.72,May,Details,,Mai‘s Special Sauce
+5,3,,2.0,7.18,May,Details,,北冰洋 Orange Soda
+5,3,,2.0,7.18,May,Details,,Pepsi Zero
+5,3,,2.0,7.18,May,Details,,Sweet Tea
+5,3,,3.0,9.22,May,Details,,Braised Pork
+5,3,,2.0,5.98,May,Details,,Shrimp
+5,3,,3.0,5.97,May,Details,,Bottled Water
+5,3,,2.0,4.52,May,Details,,Open Food
+5,3,,2.0,4.3,May,Details,,Braised Egg
+5,3,,4.0,4.26,May,Details,,Mai‘s special Sauce
+5,3,,1.0,3.59,May,Details,,Ramune - Orange
+5,3,,1.0,3.59,May,Details,,Starry
+5,3,,1.0,2.99,May,Details,,Ramune - Melon
+5,3,,2.0,6.28,May,Details,,Ramune - Strawberry
+5,3,,0.0,0.0,May,Details,,Water
+5,3,,1.0,4.5,May,Details,,Sweet Sesame Ball (6) w. red bean
+5,3,,5.0,18.38,May,Details,,Golden kiwi
+1,1,Lunch Menu,222.0,3089.08,June,Summary,,
+1,1,All Day Menu,0.0,39433.25,June,Summary,,
+1,1,Open Food,1.0,5.0,June,Summary,,
+1,2,,510.0,7287.69,June,Details,Tossed Ramen,
+1,2,,243.0,3652.73,June,Details,Tossed Rice Noodle,
+1,2,,479.0,7108.15,June,Details,Ramen,
+1,2,,836.0,4487.7,June,Details,Appetizer,
+1,2,,127.0,255.81,June,Details,Additonal,
+1,2,,146.0,1967.46,June,Details,Fried Rice,
+1,2,,551.0,5725.04,June,Details,Fried Chicken,
+1,2,,222.0,3089.08,June,Details,Lunch Special,
+1,2,,0.0,0.0,June,Details,Prep item,
+1,2,,103.0,1187.4,June,Details,Wonton,
+1,2,,189.0,836.14,June,Details,Milk Tea,
+1,2,,37.0,472.38,June,Details,Special Offer,
+1,2,,0.0,0.0,June,Details,Combo Items,
+1,2,,0.0,2086.79,June,Details,Drink,
+1,2,,1.0,5.0,June,Details,Open Food,
+1,2,,298.0,4365.96,June,Details,Rice Noodle,
+1,3,,286.0,4248.69,June,Details,,Beef Tossed Ramen
+1,3,,222.0,3089.08,June,Details,,Lunch Special
+1,3,,195.0,2907.79,June,Details,,Beef Ramen
+1,3,,153.0,2196.39,June,Details,,Chicken Rice Noodle Soup
+1,3,,113.0,1771.24,June,Details,,Beef Tossed Rice Noodle
+1,3,,142.0,1722.24,June,Details,,BF chicken cutlet combo
+1,3,,134.0,1769.95,June,Details,,Pork Tossed Ramen
+1,3,,117.0,1724.75,June,Details,,Chicken Ramen
+1,3,,81.0,1241.45,June,Details,,Beef Rice Noodle Soup
+1,3,,127.0,1283.91,June,Details,,Mai Special Fried Chicken(8)
+1,3,,78.0,1176.77,June,Details,,Chicken Tossed Rice Noodles
+1,3,,103.0,1187.4,June,Details,,Sichuan Chili Wontons
+1,3,,81.0,1138.02,June,Details,,Chicken Tossed Ramen
+1,3,,65.0,1077.79,June,Details,,House Ramen
+1,3,,77.0,1034.83,June,Details,,Pork Ramen
+1,3,,71.0,715.74,June,Details,,Golden Coconut Crunch Chicken(8)
+2,3,,66.0,660.27,June,Details,,Mai's Golden Flake Fried Chicken(8)
+2,3,,47.0,588.99,June,Details,,Chicken Fried Rice
+2,3,,63.0,576.99,June,Details,,Fried Pork Dumplings(10)
+2,3,,37.0,560.07,June,Details,,House Fried Rice
+2,3,,112.0,566.58,June,Details,,Mai OG Fried Chicken Wings(4)
+2,3,,95.0,555.17,June,Details,,Cream Cheese Rangoon(6)
+2,3,,43.0,575.37,June,Details,,Pork Tossed Rice Noodle
+2,3,,121.0,482.76,June,Details,,Crispy Pork Egg Roll(3)
+2,3,,119.0,475.5,June,Details,,Crispy Spring Roll(3)
+2,3,,54.0,475.34,June,Details,,Steam Pork Dumplings(10)
+2,3,,103.0,441.87,June,Details,,Brown Sugar Milk Tea w. Boba (24oz)
+2,3,,29.0,389.42,June,Details,,Pork Rice Noodle Soup
+2,3,,83.0,407.11,June,Details,,Tempura Shrimp(3)
+2,3,,25.0,362.99,June,Details,,Vegetable Ramen
+2,3,,24.0,302.59,June,Details,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)"
+2,3,,31.0,307.44,June,Details,,Onion Glory Fried Chicken(8)
+2,3,,20.0,339.85,June,Details,,House Rice Noodle Soup
+2,3,,90.0,268.22,June,Details,,Dr. Pepper
+2,3,,47.0,252.68,June,Details,,Spicy Cucumber Salad
+2,3,,62.0,226.72,June,Details,,Golden kiwi
+2,3,,18.0,249.85,June,Details,,Shrimp Fried Rice
+2,3,,24.0,241.8,June,Details,,Citrus Honey Fried Chicken  (8)
+3,3,,79.0,232.93,June,Details,,Unsweet Ice Tea
+3,3,,18.0,243.61,June,Details,,Beef Fried Rice
+3,3,,62.0,235.51,June,Details,,Strawberry Sunrise Tea
+3,3,,75.0,216.23,June,Details,,Pepsi
+3,3,,33.0,222.28,June,Details,,BF chicken cutlet
+3,3,,76.0,220.93,June,Details,,Sweet Ice Tea
+3,3,,21.0,207.85,June,Details,,Mai Buffalo Chicken Wings(8)
+3,3,,15.0,198.84,June,Details,,Vegetable Rice Noodle Soup
+3,3,,72.0,212.94,June,Details,,Specialty Drink
+3,3,,14.0,171.38,June,Details,,Vegetable Fried Rice
+3,3,,12.0,153.56,June,Details,,Pork Fried Rice
+3,3,,28.0,159.05,June,Details,,Pork Bun (3)
+3,3,,55.0,161.9,June,Details,,Diet Pepsi
+3,3,,22.0,119.12,June,Details,,Brown Sugar Rice Cake (5)
+3,3,,21.0,118.76,June,Details,,Jumbo Chicken Tender (3)
+3,3,,8.0,113.36,June,Details,,Vegetable Tossed Rice Noodle
+3,3,,36.0,140.51,June,Details,,Crispy French Fries
+3,3,,8.0,99.79,June,Details,,Mai's Wing Wheel
+3,3,,12.0,111.7,June,Details,,Tangy Honey Mustard Fried Chicken (8)
+3,3,,20.0,94.8,June,Details,,Sweet Sesame Ball (6) w. red bean
+3,3,,19.0,95.35,June,Details,,Milk Tea(20oz)
+3,3,,19.0,88.18,June,Details,,Thai Milk Tea w. Boba (24oz)-1
+4,3,,28.0,81.51,June,Details,,Starry - Sprite
+4,3,,7.0,69.0,June,Details,,Chili Pepper Fried Chicken（8）
+4,3,,7.0,68.93,June,Details,,Wasabi Spiced Fried Chicken (8)
+4,3,,7.0,99.05,June,Details,,Vegetable Tossed Ramen
+4,3,,21.0,66.77,June,Details,,Braised Chicken Thigh
+4,3,,15.0,65.55,June,Details,,Thai Milk Tea w. Boba (24oz)
+4,3,,23.0,64.11,June,Details,,Lemonade
+4,3,,5.0,70.0,June,Details,,Mai BF Chicken Cutlet Combo
+4,3,,4.0,45.96,June,Details,,Chili Pepper Fried Chicken (8)
+4,3,,7.0,38.93,June,Details,,Cream Cheese Wonton（6）
+4,3,,9.0,35.56,June,Details,,Brown Sugar Milk Tea NO BOBA (24oz)
+4,3,,25.0,37.73,June,Details,,Rice Noodle
+4,3,,3.0,33.97,June,Details,,Wasabi Spiced Fried Chicken(8)
+4,3,,17.0,32.61,June,Details,,Bottled Soda
+4,3,,35.0,34.5,June,Details,,White Rice - DINE IN
+4,3,,7.0,32.87,June,Details,,Mango Milk Tea (24oz)
+4,3,,7.0,26.6,June,Details,,White Rice
+4,3,,8.0,29.99,June,Details,,Plain Fried Rice
+4,3,,12.0,29.36,June,Details,,Hot Tea
+4,3,,7.0,22.13,June,Details,,Orange Crush
+4,3,,4.0,19.62,June,Details,,Mango Milk Tea
+4,3,,1.0,15.99,June,Details,,House Tossed Rice Noodle
+5,3,,2.0,31.98,June,Details,,House Tossed Ramen
+5,3,,5.0,19.71,June,Details,,Thai Milk Tea NO BOBA (24oz)
+5,3,,7.0,15.1,June,Details,,Bottled Water
+5,3,,4.0,20.4,June,Details,,Thai Milk Tea
+5,3,,3.0,14.37,June,Details,,Crispy French Fries(LG)
+5,3,,4.0,14.36,June,Details,,Pepsi Zero
+5,3,,4.0,11.88,June,Details,,Braised Chicken
+5,3,,5.0,10.01,June,Details,,Pork Bun (1)
+5,3,,3.0,33.97,June,Details,,Tangy Honey Mustard Fried Chicken(8)
+5,3,,6.0,8.55,June,Details,,Ramen
+5,3,,4.0,8.36,June,Details,,Braised Egg
+5,3,,2.0,7.87,June,Details,,Chunked Beef
+5,3,,3.0,11.33,June,Details,,Strawberry Milk Tea  (24oz)
+5,3,,2.0,5.98,June,Details,,Ramune - Original
+5,3,,2.0,5.87,June,Details,,Braised Pork
+5,3,,6.0,5.8,June,Details,,Mai‘s Special Sauce
+5,3,,2.0,5.25,June,Details,,Shrimp (8)
+5,3,,1.0,5.0,June,Details,,Open Food
+5,3,,1.0,3.59,June,Details,,Sweet Tea
+5,3,,1.0,3.59,June,Details,,Ramune - Melon
+5,3,,1.0,3.59,June,Details,,北冰洋 Orange Soda
+5,3,,1.0,2.99,June,Details,,Ramune - Strawberry
+6,3,,2.0,2.2,June,Details,,Mai‘s special Sauce
+6,3,,1.0,1.94,June,Details,,Braised Egg （2）
+6,3,,1.0,1.75,June,Details,,White Rice-To Go
+6,3,,1.0,0.75,June,Details,,Add Boba
+6,3,,0.0,0.0,June,Details,,Water
+6,3,,1.0,5.7,June,Details,,Thai Milk Tea (24oz)
+6,3,,9.0,32.49,June,Details,,Golden kiwi
+1,1,All Day Menu,0.0,43088.72,July,Summary,,
+1,1,Lunch Menu,213.0,2994.75,July,Summary,,
+1,1,Gift Card,1.0,5.99,July,Summary,,
+1,1,Open Food,3.0,5.75,July,Summary,,
+1,2,,213.0,2994.75,July,Details,Lunch Special,
+1,2,,256.0,1120.75,July,Details,Milk Tea,
+1,2,,42.0,0.0,July,Details,Prep item,
+1,2,,130.0,1748.27,July,Details,Fried Rice,
+1,2,,901.0,5012.23,July,Details,Appetizer,
+1,2,,452.0,4676.16,July,Details,Fried Chicken,
+1,2,,91.0,204.2,July,Details,Additonal,
+1,2,,618.0,9153.54,July,Details,Ramen,
+1,2,,581.0,8147.01,July,Details,Tossed Ramen,
+1,2,,252.0,3778.39,July,Details,Tossed Rice Noodle,
+1,2,,1.0,5.99,July,Details,Gift Card,
+1,2,,315.0,4621.24,July,Details,Rice Noodle,
+1,2,,0.0,0.0,July,Details,Combo Items,
+1,2,,0.0,2445.01,July,Details,Drink,
+1,2,,3.0,5.75,July,Details,Open Food,
+1,2,,118.0,1271.28,July,Details,Special Offer,
+2,2,,82.0,910.64,July,Details,Wonton,
+1,3,,321.0,4564.29,July,Details,,Beef Tossed Ramen
+1,3,,273.0,3986.72,July,Details,,Beef Ramen
+1,3,,213.0,2994.75,July,Details,,Lunch Special
+1,3,,173.0,2486.42,July,Details,,Chicken Rice Noodle Soup
+1,3,,127.0,1888.36,July,Details,,Chicken Ramen
+1,3,,112.0,1798.91,July,Details,,Beef Tossed Rice Noodle
+1,3,,141.0,1907.81,July,Details,,Pork Tossed Ramen
+1,3,,110.0,1541.79,July,Details,,Chicken Tossed Ramen
+1,3,,84.0,1428.07,July,Details,,House Ramen
+1,3,,152.0,1531.62,July,Details,,Mai Special Fried Chicken(8)
+1,3,,95.0,1321.41,July,Details,,Pork Ramen
+1,3,,80.0,1168.76,July,Details,,Chicken Tossed Rice Noodles
+1,3,,66.0,1036.74,July,Details,,Beef Rice Noodle Soup
+1,3,,77.0,943.49,July,Details,,BF chicken cutlet combo
+1,3,,82.0,910.64,July,Details,,Sichuan Chili Wontons
+1,3,,85.0,763.31,July,Details,,Fried Pork Dumplings(10)
+2,3,,55.0,696.19,July,Details,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)"
+2,3,,110.0,660.64,July,Details,,Cream Cheese Rangoon(6)
+2,3,,48.0,633.9,July,Details,,Pork Tossed Rice Noodle
+2,3,,67.0,680.49,July,Details,,Mai's Golden Flake Fried Chicken(8)
+2,3,,71.0,633.5,July,Details,,Steam Pork Dumplings(10)
+2,3,,116.0,587.7,July,Details,,Mai OG Fried Chicken Wings(4)
+2,3,,137.0,549.0,July,Details,,Crispy Spring Roll(3)
+2,3,,39.0,528.97,July,Details,,Vegetable Ramen
+2,3,,44.0,571.13,July,Details,,Chicken Fried Rice
+2,3,,52.0,524.09,July,Details,,Golden Coconut Crunch Chicken(8)
+2,3,,119.0,477.61,July,Details,,Crispy Pork Egg Roll(3)
+2,3,,33.0,444.59,July,Details,,Pork Rice Noodle Soup
+2,3,,74.0,437.03,July,Details,,Pork Bun (3)
+2,3,,29.0,419.2,July,Details,,House Fried Rice
+2,3,,101.0,424.51,July,Details,,Brown Sugar Milk Tea w. Boba (24oz)
+2,3,,76.0,376.69,July,Details,,Tempura Shrimp(3)
+2,3,,111.0,327.63,July,Details,,Dr. Pepper
+2,3,,21.0,339.32,July,Details,,House Rice Noodle Soup
+2,3,,28.0,275.98,July,Details,,Citrus Honey Fried Chicken  (8)
+2,3,,19.0,257.36,July,Details,,Shrimp Fried Rice
+2,3,,22.0,314.18,July,Details,,Vegetable Rice Noodle Soup
+2,3,,18.0,247.79,July,Details,,Beef Fried Rice
+3,3,,16.0,225.0,July,Details,,Mai BF Chicken Cutlet Combo
+3,3,,83.0,238.63,July,Details,,Sweet Ice Tea
+3,3,,37.0,251.63,July,Details,,Steam Pork Bun （3）
+3,3,,67.0,198.32,July,Details,,Diet Pepsi
+3,3,,78.0,224.43,July,Details,,Specialty Drink
+3,3,,78.0,218.33,July,Details,,Unsweet Ice Tea
+3,3,,50.0,200.73,July,Details,,Thai Milk Tea w. Boba (24oz)
+3,3,,73.0,208.47,July,Details,,Pepsi
+3,3,,19.0,180.3,July,Details,,Onion Glory Fried Chicken(8)
+3,3,,13.0,165.57,July,Details,,Pork Fried Rice
+3,3,,29.0,152.92,July,Details,,Spicy Cucumber Salad
+3,3,,11.0,161.14,July,Details,,Vegetable Tossed Rice Noodle
+3,3,,28.0,152.95,July,Details,,Milk Tea(24oz)
+3,3,,42.0,161.82,July,Details,,Golden kiwi (16oz)
+3,3,,42.0,152.64,July,Details,,Strawberry Sunrise（16oz)
+3,3,,33.0,122.66,July,Details,,Strawberry Sunrise Tea
+3,3,,14.0,140.33,July,Details,,Mai Buffalo Chicken Wings(8)
+3,3,,10.0,98.46,July,Details,,Jumbo Chicken Tenders Combo (3)
+3,3,,35.0,100.88,July,Details,,Starry - Sprite
+3,3,,17.0,91.2,July,Details,,Thai Milk Tea (24oz)
+3,3,,7.0,87.21,July,Details,,Vegetable Fried Rice
+3,3,,13.0,85.12,July,Details,,BF chicken cutlet
+4,3,,17.0,84.58,July,Details,,Jumbo Chicken Tender (3)
+4,3,,20.0,85.02,July,Details,,Strawberry Sunrise（24oz)
+4,3,,14.0,75.69,July,Details,,Brown Sugar Rice Cake (5)
+4,3,,22.0,85.08,July,Details,,Crispy French Fries
+4,3,,27.0,76.64,July,Details,,Lemonade
+4,3,,7.0,69.43,July,Details,,Chili Pepper Fried Chicken（8）
+4,3,,8.0,77.46,July,Details,,Tangy Honey Mustard Fried Chicken (8)
+4,3,,5.0,67.24,July,Details,,Vegetable Tossed Ramen
+4,3,,15.0,71.72,July,Details,,Sweet Sesame Ball (6) w. red bean
+4,3,,17.0,76.02,July,Details,,Golden kiwi (24oz)
+4,3,,5.0,59.95,July,Details,,Wasabi Spiced Fried Chicken(8)
+4,3,,6.0,59.94,July,Details,,Wasabi Spiced Fried Chicken (8)
+4,3,,13.0,59.73,July,Details,,Mango Milk Tea (24oz)
+4,3,,15.0,56.89,July,Details,,Brown Sugar Milk Tea NO BOBA (24oz)
+4,3,,17.0,67.67,July,Details,,Thai Milk Tea NO BOBA (24oz)
+4,3,,15.0,67.07,July,Details,,Strawberry Milk Tea  (24oz)
+4,3,,4.0,65.88,July,Details,,House Tossed Ramen
+4,3,,15.0,45.72,July,Details,,Orange Crush
+4,3,,18.0,52.81,July,Details,,Hot Tea
+4,3,,12.0,42.72,July,Details,,Golden kiwi
+4,3,,3.0,35.97,July,Details,,Tangy Honey Mustard Fried Chicken(8)
+4,3,,10.0,38.87,July,Details,,Plain Fried Rice
+5,3,,11.0,32.51,July,Details,,Pepsi zero
+5,3,,7.0,27.87,July,Details,,Chunked Beef
+5,3,,6.0,26.34,July,Details,,Crispy French Fries(LG)
+5,3,,17.0,30.15,July,Details,,Bottled Soda
+5,3,,12.0,18.35,July,Details,,Rice Noodle
+5,3,,9.0,19.91,July,Details,,Pork Bun (1)
+5,3,,13.0,19.33,July,Details,,Ramen
+5,3,,9.0,17.66,July,Details,,Braised Egg （2 half）
+5,3,,1.0,15.68,July,Details,,House Tossed Rice Noodle
+5,3,,4.0,14.0,July,Details,,White Rice-To Go
+5,3,,16.0,15.8,July,Details,,White Rice - DINE IN
+5,3,,1.0,11.99,July,Details,,Chili Pepper Fried Chicken (8)
+5,3,,5.0,14.88,July,Details,,Shrimp (8)
+5,3,,7.0,13.7,July,Details,,Bottled Water
+5,3,,1.0,10.5,July,Details,,Chicken Tender combo w fries and drink
+5,3,,3.0,8.62,July,Details,,Braised Pork
+5,3,,2.0,7.18,July,Details,,Milkis
+5,3,,2.0,7.18,July,Details,,Unsweet Tea
+5,3,,3.0,11.2,July,Details,,White Rice
+5,3,,1.0,5.99,July,Details,,Gift Card
+5,3,,3.0,5.75,July,Details,,Open Food
+5,3,,1.0,3.59,July,Details,,Ramune - Melon
+6,3,,1.0,3.59,July,Details,,Starry
+6,3,,1.0,3.59,July,Details,,Ramune - Strawberry
+6,3,,1.0,3.59,July,Details,,Coconut Milk
+6,3,,1.0,3.59,July,Details,,Ramune - Grape
+6,3,,2.0,6.58,July,Details,,Braised Chicken
+6,3,,2.0,2.4,July,Details,,Mai‘s special Sauce
+6,3,,2.0,4.78,July,Details,,Braised Egg
+6,3,,1.0,1.89,July,Details,,Braised Egg （2）
+6,3,,2.0,1.98,July,Details,,Mai‘s Special Sauce
+6,3,,2.0,0.0,July,Details,,Chunked Pork - 5 days exp
+6,3,,0.0,0.0,July,Details,,Water
+6,3,,4.0,0.0,July,Details,,Chinese Bockchoy- 5 days exp
+6,3,,1.0,0.0,July,Details,,Braised Chicken - 5 days exp
+6,3,,26.0,0.0,July,Details,,Sliced Fruit  - 5 day expiration
+6,3,,7.0,0.0,July,Details,,Brew Tea - 5 days exp
+6,3,,1.0,3.59,July,Details,,Ramune - Orange
+1,1,Signature Drinks,566.0,2408.42,August,Summary,,
+1,1,Lunch Menu,308.0,4160.47,August,Summary,,
+1,1,Gift Card,5.0,45.0,August,Summary,,
+1,1,All Day Menu,0.0,58601.83,August,Summary,,
+1,1,Open Food,1.0,1.5,August,Summary,,
+1,2,,211.0,2355.56,August,Details,Wonton,
+1,2,,308.0,4160.47,August,Details,Lunch Special,
+1,2,,38.0,1.0,August,Details,Prep item,
+1,2,,156.0,395.71,August,Details,Additonal,
+1,2,,422.0,5385.14,August,Details,Fried Rice,
+1,2,,110.0,452.94,August,Details,Fruit Tea,
+1,2,,746.0,8590.0,August,Details,Fried Chicken,
+1,2,,0.0,6407.17,August,Details,Appetizer,
+1,2,,844.0,12574.53,August,Details,Ramen,
+1,2,,480.0,6908.36,August,Details,Tossed Ramen,
+1,2,,420.0,6232.66,August,Details,Tossed Rice Noodle,
+1,2,,19.0,111.65,August,Details,Mai Dessert,
+1,2,,404.0,6053.93,August,Details,Rice Noodle,
+1,2,,5.0,45.0,August,Details,Gift Card,
+1,2,,84.0,346.85,August,Details,Jas-Lemonade,
+1,2,,0.0,0.0,August,Details,Combo Items,
+2,2,,0.0,1930.03,August,Details,Drink,
+2,2,,1.0,1.5,August,Details,Open Food,
+2,2,,127.0,1648.21,August,Details,Special Offer,
+2,2,,374.0,1616.49,August,Details,Milk Tea,
+1,3,,328.0,5032.52,August,Details,,Beef Ramen
+1,3,,308.0,4160.47,August,Details,,Lunch Special
+1,3,,214.0,3166.6,August,Details,,Beef Tossed Ramen
+1,3,,201.0,3047.09,August,Details,,Mai's BF Chicken Cutlet Combo
+1,3,,181.0,2613.36,August,Details,,Chicken Ramen
+1,3,,173.0,2413.66,August,Details,,Pork Ramen
+1,3,,146.0,2343.52,August,Details,,Beef Tossed Rice Noodle
+1,3,,181.0,2027.16,August,Details,,Sichuan Chili Wontons
+1,3,,132.0,1922.45,August,Details,,Chicken Rice Noodle Soup
+1,3,,123.0,1889.06,August,Details,,Beef Rice Noodle Soup
+1,3,,112.0,1830.92,August,Details,,House Ramen
+1,3,,129.0,1761.18,August,Details,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)"
+1,3,,115.0,1648.14,August,Details,,Chicken Tossed Rice Noodles
+1,3,,157.0,1538.48,August,Details,,Mai Special Fried Chicken(8)
+1,3,,116.0,1553.8,August,Details,,Pork Tossed Ramen
+1,3,,130.0,1568.64,August,Details,,Chicken Fried Rice
+2,3,,100.0,1355.56,August,Details,,Pork Tossed Rice Noodle
+2,3,,101.0,1439.54,August,Details,,Chicken Tossed Ramen
+2,3,,233.0,1190.88,August,Details,,Steamed Pork Buns
+2,3,,87.0,1113.51,August,Details,,Shrimp Fried Rice
+2,3,,75.0,992.82,August,Details,,Beef Fried Rice
+2,3,,108.0,970.51,August,Details,,Fried Pork Dumplings(10)
+2,3,,61.0,997.21,August,Details,,House Rice Noodle Soup
+2,3,,72.0,1004.67,August,Details,,House Fried Rice
+2,3,,63.0,889.57,August,Details,,Pork Rice Noodle Soup
+2,3,,106.0,948.27,August,Details,,Steam Pork Dumplings(10)
+2,3,,50.0,684.06,August,Details,,Vegetable Ramen
+2,3,,117.0,716.65,August,Details,,Cream Cheese Rangoon(6)
+2,3,,149.0,601.79,August,Details,,Brown Sugar Milk Tea w. boba
+2,3,,35.0,560.46,August,Details,,House Tossed Rice Noodle
+2,3,,53.0,536.24,August,Details,,Citrus Honey Fried Chicken  (8)
+2,3,,102.0,487.66,August,Details,,Tempura Shrimp(3)
+2,3,,50.0,533.85,August,Details,,Mai's Golden Flake Fried Chicken(8)
+2,3,,132.0,523.04,August,Details,,Crispy Spring Roll(3)
+2,3,,51.0,509.24,August,Details,,Chili Pepper Fried Chicken（8）
+2,3,,98.0,433.74,August,Details,,Thai Milk Tea w. boba
+2,3,,27.0,443.31,August,Details,,House Tossed Ramen
+2,3,,69.0,378.5,August,Details,,Spicy Cucumber Salad
+3,3,,20.0,347.38,August,Details,,Mai BF Chicken Cutlet Combo
+3,3,,25.0,355.64,August,Details,,Vegetable Rice Noodle Soup
+3,3,,31.0,361.06,August,Details,,Vegetable Fried Rice
+3,3,,27.0,344.44,August,Details,,Pork Fried Rice
+3,3,,39.0,378.75,August,Details,,Jumbo Chicken Tenders Combo (3)
+3,3,,33.0,339.86,August,Details,,Golden Coconut Crunch Chicken(8)
+3,3,,30.0,328.39,August,Details,,Wonton Soup
+3,3,,75.0,295.23,August,Details,,Crispy Pork Egg Roll(3)
+3,3,,24.0,324.97,August,Details,,Vegetable Tossed Rice Noodle
+3,3,,22.0,305.12,August,Details,,Vegetable Tossed Ramen
+3,3,,51.0,274.32,August,Details,,Mai OG Fried Chicken Wings(4)
+3,3,,54.0,289.82,August,Details,,Brown Sugar Rice Cake (5)
+3,3,,94.0,279.4,August,Details,,Dr. Pepper
+3,3,,91.0,260.31,August,Details,,Pepsi zero
+3,3,,87.0,253.94,August,Details,,Pepsi
+3,3,,28.0,259.41,August,Details,,Tangy Honey Mustard Fried Chicken (8)
+3,3,,87.0,247.16,August,Details,,Sweet Ice Tea
+3,3,,48.0,223.93,August,Details,,Sweet Sesame Ball (6) w. red bean
+3,3,,61.0,249.01,August,Details,,Strawberry Sunrise
+3,3,,29.0,218.02,August,Details,,Mai's BF Chicken Cutlet
+3,3,,23.0,237.88,August,Details,,Onion Glory Fried Chicken(8)
+3,3,,49.0,203.94,August,Details,,Golden Kiwi
+4,3,,69.0,201.11,August,Details,,Unsweet Ice Tea
+4,3,,69.0,203.14,August,Details,,Specialty Drink
+4,3,,22.0,214.18,August,Details,,Mai Buffalo Chicken Wings(8)
+4,3,,43.0,168.35,August,Details,,Crispy French Fries(LG)
+4,3,,59.0,175.02,August,Details,,Lemonade
+4,3,,40.0,190.2,August,Details,,Mango Milk Tea
+4,3,,42.0,186.52,August,Details,,Strawberry Milk Tea
+4,3,,16.0,113.94,August,Details,,Steam Pork Bun （3）
+4,3,,35.0,103.03,August,Details,,Hot Tea
+4,3,,22.0,99.33,August,Details,,Brown Sugar Milk Tea
+4,3,,23.0,94.87,August,Details,,Strawberry Jas-Lemonade
+4,3,,7.0,92.5,August,Details,,BF chicken cutlet combo
+4,3,,17.0,72.87,August,Details,,Mango Jas-Lemonade
+4,3,,18.0,80.25,August,Details,,Plain Fried Rice
+4,3,,48.0,73.59,August,Details,,White Rice - DINE IN
+4,3,,23.0,67.46,August,Details,,Starry - Sprite
+4,3,,16.0,72.67,August,Details,,Matcha Milk Tea w. boba
+4,3,,13.0,58.69,August,Details,,Peach Jas-Lemonade
+4,3,,10.0,61.24,August,Details,,Jumbo Chicken Tenders(3)
+4,3,,13.0,58.29,August,Details,,Original Jas-Lemonade
+4,3,,5.0,45.0,August,Details,,Gift Card
+4,3,,15.0,42.74,August,Details,,Bottled Soda
+5,3,,17.0,41.2,August,Details,,Ramen
+5,3,,10.0,37.81,August,Details,,Lychee Jas-Lemonade
+5,3,,6.0,35.94,August,Details,,Pork Bun (3)
+5,3,,13.0,38.73,August,Details,,Orange Crush
+5,3,,10.0,39.28,August,Details,,Chunked Beef
+5,3,,15.0,36.91,August,Details,,Rice Noodle
+5,3,,9.0,29.82,August,Details,,Braised Pork
+5,3,,15.0,26.3,August,Details,,Braised Egg （2 half）
+5,3,,5.0,24.37,August,Details,,Thai Milk Tea
+5,3,,9.0,26.92,August,Details,,White Rice
+5,3,,6.0,20.52,August,Details,,Blueberry Jas-Lemonade
+5,3,,5.0,18.23,August,Details,,Ramune - Strawberry
+5,3,,2.0,15.0,August,Details,,BF chicken cutlet
+5,3,,5.0,14.2,August,Details,,Braised Chicken
+5,3,,1.0,11.99,August,Details,,Chili Pepper Fried Chicken (8)
+5,3,,1.0,11.99,August,Details,,Tangy Honey Mustard Fried Chicken(8)
+5,3,,7.0,12.64,August,Details,,Bottled Water
+5,3,,1.0,9.99,August,Details,,Wasabi Spiced Fried Chicken (8)
+5,3,,4.0,12.84,August,Details,,Shrimp (8)
+5,3,,3.0,9.5,August,Details,,White Rice-To Go
+5,3,,2.0,7.98,August,Details,,Crispy French Fries
+5,3,,2.0,7.32,August,Details,,Pepsi Zero
+6,3,,2.0,6.58,August,Details,,Ramune - Melon
+6,3,,2.0,5.98,August,Details,,Sweet Tea
+6,3,,1.0,5.5,August,Details,,Jumbo Chicken Tender (3)
+6,3,,1.0,5.5,August,Details,,Strawberry Milk Tea  (24oz)
+6,3,,2.0,3.8,August,Details,,Tropical Jas-Lemonade
+6,3,,1.0,3.66,August,Details,,Coconut Milk
+6,3,,1.0,3.59,August,Details,,Ramune - Original
+6,3,,1.0,2.37,August,Details,,Brown Sugar Milk Tea w. Boba (24oz)
+6,3,,1.0,2.25,August,Details,,Pork Bun (1)
+6,3,,1.0,1.5,August,Details,,Open Food
+6,3,,1.0,1.0,August,Details,,Popping boba -
+6,3,,1.0,1.0,August,Details,,Mai‘s special Sauce
+6,3,,1.0,0.0,August,Details,,Popping boba - -1
+6,3,,17.0,0.0,August,Details,,Sliced Fruit  - 5 day expiration
+6,3,,5.0,0.0,August,Details,,Brew Tea - 5 days exp
+6,3,,4.0,0.0,August,Details,,Braised Chicken - 5 days exp
+6,3,,2.0,0.0,August,Details,,Chunked Pork - 5 days exp
+6,3,,8.0,0.0,August,Details,,Chunked Beef - 5 days exp
+6,3,,0.0,0.0,August,Details,,Water
+6,3,,2.0,3.89,August,Details,,Braised Egg
+1,1,Lunch Menu,398.0,5606.57,September,Summary,,
+1,1,All Day Menu,0.0,66146.96,September,Summary,,
+1,1,Signature Drinks,779.0,3483.07,September,Summary,,
+1,2,,454.0,6811.07,September,Details,Rice Noodle,
+1,2,,442.0,6661.42,September,Details,Tossed Rice Noodle,
+1,2,,17.0,102.07,September,Details,Mai Dessert,
+1,2,,977.0,14615.3,September,Details,Ramen,
+1,2,,0.0,7227.69,September,Details,Appetizer,
+1,2,,90.0,385.39,September,Details,Jas-Lemonade,
+1,2,,927.0,10955.24,September,Details,Fried Chicken,
+1,2,,451.0,6205.81,September,Details,Fried Rice,
+1,2,,483.0,6981.17,September,Details,Tossed Ramen,
+1,2,,398.0,5606.57,September,Details,Lunch Special,
+1,2,,233.0,2592.89,September,Details,Wonton,
+1,2,,0.0,1737.27,September,Details,Drink,
+1,2,,167.0,599.02,September,Details,Additonal,
+1,2,,0.0,0.0,September,Details,Combo Items,
+1,2,,131.0,1658.01,September,Details,Special Offer,
+1,2,,530.0,2417.89,September,Details,Milk Tea,
+2,2,,1.0,0.0,September,Details,Prep item,
+2,2,,159.0,679.79,September,Details,Fruit Tea,
+1,3,,362.0,5626.37,September,Details,,Beef Ramen
+1,3,,398.0,5606.57,September,Details,,Lunch Special
+1,3,,285.0,4312.18,September,Details,,Mai's BF Chicken Cutlet Combo
+1,3,,242.0,3360.22,September,Details,,Pork Ramen
+1,3,,205.0,2976.79,September,Details,,Chicken Ramen
+1,3,,188.0,2867.41,September,Details,,Beef Tossed Ramen
+1,3,,154.0,2519.72,September,Details,,Beef Tossed Rice Noodle
+1,3,,210.0,2225.58,September,Details,,Mai Special Fried Chicken(8)
+1,3,,185.0,2054.87,September,Details,,Sichuan Chili Wontons
+1,3,,119.0,1972.32,September,Details,,House Ramen
+1,3,,144.0,1968.55,September,Details,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)"
+1,3,,133.0,1961.81,September,Details,,Chicken Rice Noodle Soup
+1,3,,148.0,1849.24,September,Details,,Chicken Fried Rice
+1,3,,115.0,1807.11,September,Details,,Beef Rice Noodle Soup
+1,3,,137.0,1810.77,September,Details,,Pork Tossed Ramen
+1,3,,115.0,1563.27,September,Details,,Pork Tossed Rice Noodle
+2,3,,104.0,1523.75,September,Details,,Chicken Tossed Rice Noodles
+2,3,,321.0,1423.98,September,Details,,Steamed Pork Buns
+2,3,,95.0,1299.33,September,Details,,Pork Rice Noodle Soup
+2,3,,98.0,1399.24,September,Details,,Chicken Tossed Ramen
+2,3,,81.0,1301.92,September,Details,,House Rice Noodle Soup
+2,3,,84.0,1206.15,September,Details,,House Fried Rice
+2,3,,84.0,1112.14,September,Details,,Shrimp Fried Rice
+2,3,,111.0,1013.36,September,Details,,Fried Pork Dumplings(10)
+2,3,,116.0,1011.17,September,Details,,Steam Pork Dumplings(10)
+2,3,,148.0,938.89,September,Details,,Cream Cheese Rangoon(6)
+2,3,,63.0,831.05,September,Details,,Beef Fried Rice
+2,3,,169.0,734.42,September,Details,,Brown Sugar Milk Tea w. boba
+2,3,,160.0,716.2,September,Details,,Thai Milk Tea w. boba
+2,3,,32.0,672.43,September,Details,,Vegetable Fried Rice
+2,3,,133.0,674.23,September,Details,,Crispy Spring Roll(3)
+2,3,,49.0,679.6,September,Details,,Vegetable Ramen
+2,3,,39.0,646.75,September,Details,,House Tossed Rice Noodle
+2,3,,56.0,596.99,September,Details,,Mai's Golden Flake Fried Chicken(8)
+2,3,,35.0,568.0,September,Details,,House Tossed Ramen
+2,3,,48.0,538.02,September,Details,,Wonton Soup
+2,3,,40.0,534.8,September,Details,,Pork Fried Rice
+2,3,,48.0,489.69,September,Details,,Citrus Honey Fried Chicken  (8)
+3,3,,45.0,454.18,September,Details,,Golden Coconut Crunch Chicken(8)
+3,3,,95.0,473.75,September,Details,,Tempura Shrimp(3)
+3,3,,30.0,440.89,September,Details,,Vegetable Rice Noodle Soup
+3,3,,44.0,449.47,September,Details,,Chili Pepper Fried Chicken（8）
+3,3,,75.0,412.16,September,Details,,Spicy Cucumber Salad
+3,3,,29.0,391.93,September,Details,,Vegetable Tossed Rice Noodle
+3,3,,81.0,397.22,September,Details,,Matcha Milk Tea w. boba
+3,3,,81.0,383.84,September,Details,,Mango Milk Tea
+3,3,,54.0,384.46,September,Details,,Mai's BF Chicken Cutlet
+3,3,,91.0,371.18,September,Details,,Strawberry Sunrise
+3,3,,22.0,386.37,September,Details,,Mai BF Chicken Cutlet Combo
+3,3,,68.0,363.09,September,Details,,Brown Sugar Rice Cake (5)
+3,3,,25.0,335.76,September,Details,,Vegetable Tossed Ramen
+3,3,,56.0,305.06,September,Details,,Mai OG Fried Chicken Wings(4)
+3,3,,68.0,308.61,September,Details,,Golden Kiwi
+3,3,,98.0,288.33,September,Details,,Pepsi
+3,3,,72.0,294.48,September,Details,,Crispy Pork Egg Roll(3)
+3,3,,28.0,283.72,September,Details,,Onion Glory Fried Chicken(8)
+3,3,,26.0,272.32,September,Details,,Jumbo Chicken Tenders Combo (3)
+3,3,,27.0,274.23,September,Details,,Mai Buffalo Chicken Wings(8)
+3,3,,87.0,257.85,September,Details,,Dr. Pepper
+3,3,,78.0,231.16,September,Details,,Sweet Ice Tea
+4,3,,33.0,223.69,September,Details,,Steam Pork Bun （3）
+4,3,,71.0,205.59,September,Details,,Specialty Drink
+4,3,,52.0,207.76,September,Details,,Crispy French Fries(LG)
+4,3,,43.0,211.83,September,Details,,Sweet Sesame Ball (6) w. red bean
+4,3,,18.0,181.85,September,Details,,Tangy Honey Mustard Fried Chicken (8)
+4,3,,61.0,180.29,September,Details,,Pepsi zero
+4,3,,39.0,186.22,September,Details,,Strawberry Milk Tea
+4,3,,48.0,141.77,September,Details,,Unsweet Ice Tea
+4,3,,4.0,109.59,September,Details,,Braised Chicken
+4,3,,38.0,111.42,September,Details,,Lemonade
+4,3,,18.0,109.98,September,Details,,Jumbo Chicken Tenders(3)
+4,3,,8.0,106.24,September,Details,,Chunked Beef
+4,3,,37.0,109.19,September,Details,,Hot Tea
+4,3,,23.0,102.87,September,Details,,Lychee Jas-Lemonade
+4,3,,25.0,103.28,September,Details,,Plain Fried Rice
+4,3,,21.0,88.84,September,Details,,Mango Jas-Lemonade
+4,3,,24.0,93.51,September,Details,,Strawberry Jas-Lemonade
+4,3,,27.0,80.94,September,Details,,White Rice
+4,3,,22.0,64.64,September,Details,,Starry - Sprite
+4,3,,42.0,62.75,September,Details,,White Rice - DINE IN
+4,3,,18.0,47.42,September,Details,,Orange Crush
+4,3,,17.0,45.55,September,Details,,Rice Noodle
+5,3,,12.0,35.81,September,Details,,Bottled Soda
+5,3,,7.0,32.3,September,Details,,Original Jas-Lemonade
+5,3,,7.0,30.52,September,Details,,Peach Jas-Lemonade
+5,3,,13.0,32.18,September,Details,,Ramen
+5,3,,16.0,27.74,September,Details,,Braised Egg （2 half）
+5,3,,6.0,21.96,September,Details,,Pepsi Zero
+5,3,,5.0,24.73,September,Details,,Blueberry Jas-Lemonade
+5,3,,4.0,12.68,September,Details,,Braised Pork
+5,3,,3.0,12.62,September,Details,,Tropical Jas-Lemonade
+5,3,,3.0,10.98,September,Details,,Ramune - Grape
+5,3,,3.0,10.98,September,Details,,Ramune - Strawberry
+5,3,,2.0,7.32,September,Details,,北冰洋 Orange Soda
+5,3,,3.0,6.42,September,Details,,Braised Egg
+5,3,,5.0,6.15,September,Details,,Mai‘s special Sauce
+5,3,,3.0,5.25,September,Details,,Bottled Water
+5,3,,1.0,3.66,September,Details,,Sweet Tea
+5,3,,1.0,3.66,September,Details,,Ramune - Melon
+5,3,,2.0,4.5,September,Details,,White Rice-To Go
+5,3,,1.0,1.0,September,Details,,Mai‘s Special Sauce
+5,3,,0.0,0.0,September,Details,,Water
+5,3,,1.0,0.0,September,Details,,Sliced Fruit  - 5 day expiration
+5,3,,1.0,15.99,September,Details,,House Tossed Rice Noodle
+1,1,Signature Drinks,776.0,3509.64,October,Summary,,
+1,1,Lunch Menu,366.0,5149.01,October,Summary,,
+1,1,Open Food,2.0,9.31,October,Summary,,
+1,1,All Day Menu,0.0,64539.39,October,Summary,,
+1,2,,357.0,5600.47,October,Details,,Beef Ramen
+1,2,,366.0,5149.01,October,Details,,Lunch Special
+1,2,,266.0,4080.53,October,Details,,Mai's BF Chicken Cutlet Combo
+1,2,,227.0,3194.81,October,Details,,Pork Ramen
+1,2,,204.0,2934.9,October,Details,,Chicken Ramen
+1,2,,155.0,2522.59,October,Details,,Beef Tossed Rice Noodle
+1,2,,170.0,2547.87,October,Details,,Beef Tossed Ramen
+1,2,,190.0,2379.19,October,Details,,Chicken Fried Rice
+1,2,,200.0,2002.64,October,Details,,Mai Special Fried Chicken(8)
+1,2,,133.0,1979.08,October,Details,,Chicken Rice Noodle Soup
+1,2,,165.0,1867.63,October,Details,,Sichuan Chili Wontons
+1,2,,144.0,1917.99,October,Details,,Pork Tossed Ramen
+1,2,,118.0,1837.62,October,Details,,Beef Rice Noodle Soup
+1,2,,349.0,1735.84,October,Details,,Steamed Pork Buns
+1,2,,97.0,1595.96,October,Details,,House Ramen
+1,2,,105.0,1423.4,October,Details,,Pork Tossed Rice Noodle
+2,2,,106.0,1436.39,October,Details,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)"
+2,2,,93.0,1317.34,October,Details,,Chicken Tossed Ramen
+2,2,,81.0,1171.06,October,Details,,Mai's Golden Flake Fried Chicken(8)
+2,2,,136.0,1239.72,October,Details,,Fried Pork Dumplings(10)
+2,2,,82.0,1175.2,October,Details,,Beef Fried Rice
+2,2,,73.0,1041.0,October,Details,,Chicken Tossed Rice Noodles
+2,2,,147.0,1085.89,October,Details,,Cream Cheese Rangoon(6)
+2,2,,78.0,1056.36,October,Details,,Shrimp Fried Rice
+2,2,,114.0,1008.12,October,Details,,Steam Pork Dumplings(10)
+2,2,,68.0,933.28,October,Details,,Pork Rice Noodle Soup
+2,2,,63.0,906.49,October,Details,,House Fried Rice
+2,2,,59.0,974.87,October,Details,,House Rice Noodle Soup
+2,2,,39.0,805.56,October,Details,,Vegetable Fried Rice
+2,2,,109.0,781.11,October,Details,,Mai's BF Chicken Cutlet
+2,2,,55.0,771.57,October,Details,,Vegetable Ramen
+2,2,,166.0,738.59,October,Details,,Thai Milk Tea w. boba
+2,2,,169.0,728.16,October,Details,,Brown Sugar Milk Tea w. boba
+2,2,,41.0,682.06,October,Details,,House Tossed Rice Noodle
+2,2,,40.0,588.41,October,Details,,Pork Fried Rice
+2,2,,48.0,538.9,October,Details,,Wonton Soup
+2,2,,111.0,514.27,October,Details,,Crispy Spring Roll(3)
+2,2,,50.0,494.84,October,Details,,Chili Pepper Fried Chicken（8）
+3,2,,32.0,516.72,October,Details,,House Tossed Ramen
+3,2,,88.0,445.43,October,Details,,Tempura Shrimp(3)
+3,2,,32.0,442.28,October,Details,,Vegetable Rice Noodle Soup
+3,2,,42.0,422.19,October,Details,,Golden Coconut Crunch Chicken(8)
+3,2,,39.0,391.75,October,Details,,Jumbo Chicken Tenders Combo (3)
+3,2,,88.0,445.74,October,Details,,Matcha Milk Tea w. boba
+3,2,,91.0,372.53,October,Details,,Crispy Pork Egg Roll(3)
+3,2,,82.0,381.28,October,Details,,Mango Milk Tea
+3,2,,64.0,356.75,October,Details,,Spicy Cucumber Salad
+3,2,,66.0,326.11,October,Details,,Sweet Sesame Ball (6) w. red bean
+3,2,,39.0,294.51,October,Details,,Steam Pork Bun （3）
+3,2,,17.0,302.35,October,Details,,Vegetable Tossed Rice Noodle
+3,2,,98.0,291.57,October,Details,,Dr. Pepper
+3,2,,21.0,291.16,October,Details,,Vegetable Tossed Ramen
+3,2,,90.0,268.09,October,Details,,Pepsi
+3,2,,50.0,268.38,October,Details,,Brown Sugar Rice Cake (5)
+3,2,,29.0,286.81,October,Details,,Citrus Honey Fried Chicken  (8)
+3,2,,94.0,277.37,October,Details,,Pepsi zero
+3,2,,26.0,257.33,October,Details,,Tangy Honey Mustard Fried Chicken (8)
+3,2,,22.0,223.8,October,Details,,Onion Glory Fried Chicken(8)
+3,2,,59.0,252.37,October,Details,,Strawberry Sunrise
+3,2,,50.0,234.01,October,Details,,Strawberry Milk Tea
+4,2,,42.0,217.46,October,Details,,Mai OG Fried Chicken Wings(4)
+4,2,,46.0,207.64,October,Details,,Golden Kiwi
+4,2,,71.0,209.81,October,Details,,Sweet Ice Tea
+4,2,,43.0,182.43,October,Details,,Plain Fried Rice
+4,2,,47.0,184.41,October,Details,,Crispy French Fries(LG)
+4,2,,57.0,169.58,October,Details,,Specialty Drink
+4,2,,10.0,175.94,October,Details,,Mai BF Chicken Cutlet Combo
+4,2,,20.0,193.97,October,Details,,Mai Buffalo Chicken Wings(8)
+4,2,,38.0,168.05,October,Details,,Mango Jas-Lemonade
+4,2,,53.0,154.07,October,Details,,Unsweet Ice Tea
+4,2,,39.0,115.78,October,Details,,Hot Tea
+4,2,,29.0,130.03,October,Details,,Strawberry Jas-Lemonade
+4,2,,38.0,108.96,October,Details,,Lemonade
+4,2,,25.0,73.66,October,Details,,Starry - Sprite
+4,2,,15.0,97.02,October,Details,,Jumbo Chicken Tenders(3)
+4,2,,15.0,63.99,October,Details,,Original Jas-Lemonade
+4,2,,26.0,65.93,October,Details,,Ramen
+4,2,,42.0,60.26,October,Details,,White Rice - DINE IN
+4,2,,19.0,58.14,October,Details,,White Rice
+4,2,,16.0,48.26,October,Details,,Bottled Soda
+4,2,,8.0,37.01,October,Details,,Peach Jas-Lemonade
+4,2,,13.0,39.39,October,Details,,Orange Crush
+5,2,,7.0,30.7,October,Details,,Lychee Jas-Lemonade
+5,2,,11.0,27.7,October,Details,,Rice Noodle
+5,2,,21.0,25.6,October,Details,,Mai‘s special Sauce
+5,2,,6.0,21.29,October,Details,,Pepsi Zero
+5,2,,10.0,23.75,October,Details,,White Rice-To Go
+5,2,,12.0,21.0,October,Details,,Braised Egg （2 half）
+5,2,,3.0,15.0,October,Details,,Tropical Jas-Lemonade
+5,2,,2.0,14.29,October,Details,,Mango Bingsu
+5,2,,4.0,20.25,October,Details,,Brown Sugar Bingsu
+5,2,,4.0,13.3,October,Details,,Ramune - Strawberry
+5,2,,4.0,13.0,October,Details,,Shrimp (8)
+5,2,,4.0,16.55,October,Details,,Blueberry Jas-Lemonade
+5,2,,4.0,19.23,October,Details,,Thai Bingsu
+5,2,,3.0,12.32,October,Details,,Chunked Beef
+5,2,,2.0,9.31,October,Details,,Open Food
+5,2,,5.0,8.58,October,Details,,Bottled Water
+5,2,,2.0,7.32,October,Details,,Ramune - Grape
+5,2,,2.0,7.23,October,Details,,Braised Pork
+5,2,,2.0,6.75,October,Details,,Strawberry Bingsu
+5,2,,2.0,6.65,October,Details,,Coconut Milk
+5,2,,3.0,6.42,October,Details,,Braised Egg
+5,2,,1.0,3.66,October,Details,,北冰洋 Orange Soda
+6,2,,1.0,3.66,October,Details,,Ramune - Melon
+6,2,,1.0,3.25,October,Details,,Braised Chicken
+6,2,,1.0,1.5,October,Details,,soup to go
+6,2,,0.0,0.0,October,Details,,Water
+1,3,,391.0,5971.41,October,Details,Tossed Rice Noodle,
+1,3,,460.0,6591.08,October,Details,Tossed Ramen,
+1,3,,940.0,14097.72,October,Details,Ramen,
+1,3,,939.0,10965.23,October,Details,Fried Chicken,
+1,3,,105.0,460.01,October,Details,Fruit Tea,
+1,3,,492.0,6911.21,October,Details,Fried Rice,
+1,3,,198.0,508.54,October,Details,Additonal,
+1,3,,0.0,7416.47,October,Details,Appetizer,
+1,3,,31.0,153.64,October,Details,Dessert,
+1,3,,366.0,5149.01,October,Details,Lunch Special,
+1,3,,555.0,2527.77,October,Details,Milk Tea,
+1,3,,115.0,1344.64,October,Details,Special Offer,
+1,3,,213.0,2406.52,October,Details,Wonton,
+1,3,,0.0,1820.99,October,Details,Drink,
+1,3,,2.0,9.31,October,Details,Open Food,
+1,3,,12.0,60.52,October,Details,Bingsu,
+2,3,,0.0,0.0,October,Details,Combo Items,
+2,3,,104.0,461.33,October,Details,Jas-Lemonade,
+2,3,,410.0,6167.13,October,Details,Rice Noodle,
+2,3,,33.0,184.81,October,Details,Mai Dessert,
